@@ -1,2 +1,2 @@
 # C-Sharp-Simple-Array
-Membuat aplikasi konsole dengan menggunakan C# dengan requirement menghitung jarak kota dari array.
+Create a console application using C# with the requirement to calculate the distance of the city from the array.
